@@ -1,0 +1,8 @@
+# ninja log v5
+8	879	7016652374027711	CMakeFiles/Problem_Four.dir/main.cpp.obj	60891108b96ef67e
+880	1409	7016652379430488	Problem_Four.exe	d3d6f3624613c070
+54	30880	7016656228329796	CMakeFiles/Problem_Four.dir/problem_four.cpp.obj	c69176718217637b
+7	30910	7016656228380704	CMakeFiles/Problem_Four.dir/main.cpp.obj	60891108b96ef67e
+30911	31515	7016656234745651	Problem_Four.exe	f775b1356013f049
+8	1275	7017246283521932	CMakeFiles/Problem_Four.dir/problem_four.cpp.obj	c69176718217637b
+1276	1928	7017246289973971	Problem_Four.exe	f775b1356013f049
