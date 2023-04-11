@@ -5,7 +5,7 @@
 // Modified: 3/29/2023
 // ------------------------------------------------------------------------------
 //                                  Objective
-// Write a program that prints the list of all pairs of amicable numbers
+// Write a program that prints the list of all pairs of amicable numbers.
 // smaller than 1,000,000.
 #include "problem_seven.hpp"
 #include <iostream>

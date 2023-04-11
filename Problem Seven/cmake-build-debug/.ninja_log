@@ -1,11 +1,4 @@
 # ninja log v5
-8	982	7017797654263028	CMakeFiles/Problem_Seven.dir/main.cpp.obj	b07f280c25ef5dd3
-984	1459	7017797658945519	Problem_Seven.exe	49145c9b4574c1e9
-7	1039	7017802331114321	CMakeFiles/Problem_Seven.dir/main.cpp.obj	b07f280c25ef5dd3
-50	1071	7017802331429687	CMakeFiles/Problem_Seven.dir/problem_seven.cpp.obj	a7cf8df2ceb4761b
-8	911	7017802695866997	CMakeFiles/Problem_Seven.dir/main.cpp.obj	b07f280c25ef5dd3
-7	962	7017803156371970	CMakeFiles/Problem_Seven.dir/problem_seven.cpp.obj	a7cf8df2ceb4761b
-964	1443	7017803161101718	Problem_Seven.exe	5f49c4049a1b16ca
-7	933	7017804284066051	CMakeFiles/Problem_Seven.dir/main.cpp.obj	b07f280c25ef5dd3
-51	1029	7017804285022417	CMakeFiles/Problem_Seven.dir/problem_seven.cpp.obj	a7cf8df2ceb4761b
-1030	1533	7017804289973188	Problem_Seven.exe	5f49c4049a1b16ca
+25	1028	7023723610918310	CMakeFiles/Problem_Seven.dir/main.cpp.obj	d35118dbecb427e2
+1118	1705	7023723617627033	Problem_Seven.exe	715a4f8fd3fcc6fc
+70	1117	7023723611799448	CMakeFiles/Problem_Seven.dir/problem_seven.cpp.obj	4d882173c8ab9504
