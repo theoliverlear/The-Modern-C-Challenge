@@ -1,0 +1,6 @@
+# ninja log v5
+3	1756	7128009754045628	CMakeFiles/Problem_Nine.dir/main.cpp.obj	a1c9e269493281b3
+1763	2481	7128009761418232	Problem_Nine.exe	4bdcb58e8c807182
+56	1393	7187746833613152	build.ninja	8b6f149ac4d9d7de
+3	2052	7187746855815249	CMakeFiles/Problem_Nine.dir/main.cpp.obj	973ba493cec183e1
+2063	2853	7187746863729017	Problem_Nine.exe	c6daed31349f2ba5
